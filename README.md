@@ -11,5 +11,3 @@ Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600
 ml-latest-small.zip (size: 1 MB)
 
 Note @ There may be python version compatibity issues for surprise library/ some questions, pl execute same in lower python version 3.10
-
-
