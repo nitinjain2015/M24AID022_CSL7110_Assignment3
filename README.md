@@ -2,7 +2,7 @@
 M24AID022_CSL7110_Assignment3- Github Repository
 
 Assignment3 :Recommender Systems: Content-Based and Collaborative Filtering: CSL7110 – Machine Learning with Big Data
-Overview : This repository contains the code , dataset files used for Content-Based and Collaborative Filtering3 for CSL7110.
+Overview : This repository contains the code , submitted assignment pdf report, dataset files used for Content-Based and Collaborative Filtering Assignment3 for CSL7110.
 
 Code File including output : M24AID022_CSL7110_Assignment3.ipynb (all otputs are executed in Google collab)
 
